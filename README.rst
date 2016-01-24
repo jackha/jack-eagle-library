@@ -3,6 +3,7 @@ Eagle library
 
 My very first eagle library.
 
-Devices::
+Devices
+-------
 
 - Jack plug 6.35mm
